@@ -40,3 +40,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/main/java/com/example/javaproject2/HelloApplication.java
+/src/main/java/com/example/javaproject2/HelloController.java
+/src/main/java/com/example/javaproject2/PrintHello.java
+/src/main/java/com/example/javaproject2/PrintHelloTest.java
+/src/main/java/module-info.java
+/src/main/resources/
+/.gitignore
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
